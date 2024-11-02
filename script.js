@@ -17,13 +17,13 @@ const levels = [
         },
         {
             question: "¿Cuál es el primer libro de la Biblia?",
-            options: ["Génesis", "Éxodo", "Levítico", "Números"],
-            answer: "Génesis"
+            options: ["Génesis", "Éxodo", "Job", "Números"],
+            answer: "Job"
         },
         {
             question: "¿Cuál de los siguientes no era uno de los hijos de Jacob (Israel)?",
-            options: ["José", "Judá", "Moisés", "Rubén"],
-            answer: "Moisés"
+            options: ["José", "Judá", "Aaron", "Rubén"],
+            answer: "Aaron"
         }
     ],
     [
@@ -38,9 +38,9 @@ const levels = [
             answer: "Elías"
         },
         {
-            question: "¿Cuál era el nombre de la esposa de Job?",
-            options: ["María", "Ruth", "Sara", "No se menciona su nombre en la Biblia"],
-            answer: "No se menciona su nombre en la Biblia"
+            question: "¿Qué rey fue herido en batalla y murió después de ser alcanzado por una flecha en su armadura?",
+            options: ["Ezequías", "Saúl", "David", "Acab"],
+            answer: "Acab"
         },
         {
             question: "¿Cuántos libros tiene el Nuevo Testamento?",
